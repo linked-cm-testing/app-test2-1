@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run test2-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
